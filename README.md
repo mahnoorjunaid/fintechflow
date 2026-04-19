@@ -135,4 +135,4 @@ Base URL (local): `http://localhost:5000/api`
 
 ---
 
-*Built with by Mahnoor Junaid (23i-5561) — FAST-NUCES*
+*Built by Mahnoor Junaid (23i-5561) — FAST-NUCES*
